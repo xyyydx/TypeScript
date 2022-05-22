@@ -10,7 +10,7 @@ const e:Array<number | boolean | string>=[1,2,3,4,5,6,true,'123']
 // 任意值
 const f:any=[1,'2',true];
 // null和undefined
-let dearm:number=null
+let dream:number=null
 // 函数得限制
 const g=(a:string,b:number):string=>{
     return a+b
