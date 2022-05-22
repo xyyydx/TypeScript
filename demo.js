@@ -10,7 +10,7 @@ var e = [1, 2, 3, 4, 5, 6, true, '123'];
 // 任意值
 var f = [1, '2', true];
 // null和undefined
-var dearm = null;
+var derm = null;
 // 函数得限制
 var g = function (a, b) {
     return a + b;
