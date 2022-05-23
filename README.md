@@ -1,0 +1,2 @@
+# TypeScript
+这是我学习的一些Typescript的基本数据类型和类和泛类
